@@ -2,7 +2,7 @@
 #Analysis of SO2 emmissions in the world
 
 
-#We import pandas library
+#Importing pandas for data analysis
 import pandas as pd
 
  #Importing the CSV File to the dataframe to read data from
